@@ -6,13 +6,14 @@ This system includes all the options that are made to facilitate the work of own
 
 Admin: gets all the feature to control and manage the entire system .he can manage customers Employees and accounts.
 
-The costumer can see the exciting furniture templates and select any design he likes, also he can choose the custom made furniture in which size, design, type of wood etc. choice the system determines the price and shows it to the costumer on the interface so that the costumer can get item of his choice.
-The most important function of the system ate as follow:
+The costumer can see the exciting furniture templates and select any design he likes, also he can choose the custom
+made furniture in which size, design, type of wood etc. choice the system determines the price and shows it to the 
+costumer on the interface so that the costumer can get item of his choice.The most important function of the system ate as follow:
 
-The system helps the admin to manage all the user accounts and also to report the daily work done by the                     employees.
+The system helps the admin to manage all the user accounts and also to report the daily work done by the employees.
 
 
-The system offers the customer a design according to his wishes and requests.
+The system offers the customer a design according to his wishes and requests.
 This system is efficient to show the price of ordered furniture to the costumer.
 
 The entity system: 
