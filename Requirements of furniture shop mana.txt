@@ -1,4 +1,4 @@
-                            Requirements of furniture shop management system 
+                            Requirements of furniture shop 
 
 
 This system includes all the options that are made to facilitate the work of owner employee and customer, the system is designed keeping in mind the needs of users and for better performance And Efficiency of the users,
